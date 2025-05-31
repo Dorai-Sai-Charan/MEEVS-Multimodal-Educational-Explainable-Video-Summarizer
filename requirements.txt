@@ -1,0 +1,31 @@
+# Core ML + Transformers
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.19.0
+evaluate>=0.4.1
+sentencepiece
+
+# Summarization & NLP Tools
+nltk
+whisper
+
+# Video & Audio Handling
+moviepy
+yt-dlp
+opencv-python
+
+# OCR
+easyocr
+
+# Visualization
+matplotlib
+seaborn
+
+# Web Interface
+streamlit
+
+# Utilities
+numpy
+scipy
+scikit-learn
+pandas
